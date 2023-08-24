@@ -1,1 +1,2 @@
-# esp-ai_luotuja
+# esp-ai_luotuja 
+#ChatGPT ja muut vastaavat yleishyödylliset koodit tänne
